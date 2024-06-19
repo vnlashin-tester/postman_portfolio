@@ -23,7 +23,8 @@ In this project I implemented:
 - [Environment 1](environments/DummyAPI.postman_environment.json)
 
 ## Project Foto
-- You can view the project photo [here](https://drive.google.com/uc?export=view&id=1d3CMMJc_0MQ3H5FAAPaL0dVDJvBJDmS7).
+- You can view the project photo [here](img/first_photo.png).
+- And here photo [here](img/second_photo.png).
 
 
 ## How to use
