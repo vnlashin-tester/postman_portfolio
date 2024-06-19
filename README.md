@@ -22,7 +22,7 @@ In this project I implemented:
 
 - [Environment 1](environments/DummyAPI.postman_environment.json)
 
-## Project Foto
+## Project Photo
 - You can view the project photo [here](img/first_photo.png).
 - And here photo [here](img/second_photo.png).
 
