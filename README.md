@@ -1,20 +1,34 @@
 # Postman Portfolio
 
-Это портфолио содержит коллекции и окружения для работы с API, созданные в Postman.
+This portfolio contains collections and API environments created in Postman.
 
-## Коллекции
+Since I cannot show the real project, a public resource will be used here.
 
-- [Collection 1](collections/collection1.json): описание коллекции 1
-- [Collection 2](collections/collection2.json): описание коллекции 2
+In this project I implemented:
+- User creation
+- Using a token for authorization
+- Using random data to create a cycle {{$randomDate}}
+- Using GET, POST, PUT, DEL methods
+- Using the environment to substitute data into fields
+- Writing scripts to check the response and replace data in each loop
 
-## Окружения
 
-- [Environment 1](environments/environment1.json): описание окружения 1
-- [Environment 2](environments/environment2.json): описание окружения 2
+## Collection
 
-## Как использовать
+- [Collection 1](collections/Dummy.postman_collection.json)
 
-1. Скачайте нужную коллекцию и/или окружение.
-2. Импортируйте файл в Postman.
-3. Настройте окружение, если необходимо.
-4. Запустите запросы из коллекции.
+
+## Environments
+
+- [Environment 1](environments/DummyAPI.postman_environment.json)
+
+## Project Foto
+- You can view the project photo [here](https://drive.google.com/uc?export=view&id=1d3CMMJc_0MQ3H5FAAPaL0dVDJvBJDmS7).
+
+
+## How to use
+
+1. Download the desired collection and/or environment.
+2. Import the file into Postman.
+3. Set up the environment if necessary.
+4. Run queries from the collection.
