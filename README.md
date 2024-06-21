@@ -23,8 +23,8 @@ In this project I implemented:
 - [Environment 1](environments/DummyAPI.postman_environment.json)
 
 ## Project Photo
-- You can view the project <u>photo</u> [here](img/first_photo.png).
-- And here <u>photo</u> [here](img/second_photo.png).
+- You can view the project <u> photo </u> [here](img/first_photo.png).
+- And here <u> photo </u> [here](img/second_photo.png).
 
 
 ## How to use
